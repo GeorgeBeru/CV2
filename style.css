@@ -1,5 +1,25 @@
+body{
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Lexend Deca', sans-serif; 
+}
 
-p {
-    position: fixed;
-    width: 500px;
+
+h1 {
+    color: blue;
+}
+
+img {
+    border-radius: 50px;
+}
+
+li {
+    list-style: none;
+    transition: 0.5s;
+}
+
+li a {
+    text-decoration: none;
+    font-size: 40px;
 }
